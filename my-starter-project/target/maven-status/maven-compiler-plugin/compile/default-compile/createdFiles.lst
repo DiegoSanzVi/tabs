@@ -1,0 +1,9 @@
+org/vaadin/diego/ClickEvent.class
+org/vaadin/diego/MyTab.class
+org/vaadin/diego/MyTab$ClickTabEvent.class
+org/vaadin/diego/MyTabs$SelectedEvent.class
+org/vaadin/diego/MyTabs.class
+org/vaadin/diego/LabelComponent.class
+org/vaadin/diego/ExampleTemplate$ExampleModel.class
+org/vaadin/diego/ExampleTemplate.class
+org/vaadin/diego/MainView.class
